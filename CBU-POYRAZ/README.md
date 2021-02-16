@@ -9,7 +9,7 @@ YOLO için uygun formattaki etiketler `labels` dosyası içerisindedir. Etiketle
 5: sagaDon
 6: sagaDonulmez
 7: sariIsik
-8: solaDon
+8: soladon
 9: solaDonulmez
 10: yesilIsik
 ```
